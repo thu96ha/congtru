@@ -273,9 +273,7 @@
 		0EB3E3DB20ED229100E6E76E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
-				ASSET_PACK_MANIFEST_URL_PREFIX = AppIcon;
+				ASSET_PACK_MANIFEST_URL_PREFIX = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = "";
@@ -292,9 +290,7 @@
 		0EB3E3DC20ED229100E6E76E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
-				ASSET_PACK_MANIFEST_URL_PREFIX = AppIcon;
+				ASSET_PACK_MANIFEST_URL_PREFIX = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = "";
